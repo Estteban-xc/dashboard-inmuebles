@@ -99,7 +99,7 @@ No requiere instalación: descarga el repositorio y abre `index.html` en cualqui
 
 | Rol | Responsabilidad | Integrante |
 |---|---|---|
-| Analista de datos | Revisa, limpia e interpreta los datos | [Nombre] |
-| Diseñador del dashboard | Define estructura, gráficos y distribución | [Nombre] |
-| Analista ejecutivo | Identifica hallazgos y conclusiones | [Nombre] |
-| Presentador | Expone los resultados del equipo | [Nombre] |
+| Analista de datos | Revisa, limpia e interpreta los datos | Samuel Pardo |
+| Diseñador del dashboard | Define estructura, gráficos y distribución | Esteban Varela |
+| Analista ejecutivo | Identifica hallazgos y conclusiones | Nelson Martinez |
+| Presentador | Expone los resultados del equipo | Sebastian Torres |
