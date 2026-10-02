@@ -2,7 +2,7 @@
 
 Dashboard interactivo para analizar el comportamiento de las ventas de una empresa inmobiliaria con operación en Barcelona, Girona, Lleida y Tarragona.
 
-🔗 **Ver el dashboard:** https://TU-USUARIO.github.io/dashboard-inmuebles/
+🔗 **Ver el dashboard:** https://estteban-xc.github.io/dashboard-inmuebles/
 
 > Proyecto académico de la asignatura **Fundamentos de la Inteligencia de Negocios y Gestión de Datos**, Universidad Manuela Beltrán (Bogotá, Colombia). Docente: Juan José Osorio Tabares. Octubre de 2026.
 
